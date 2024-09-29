@@ -1,0 +1,5 @@
+SpeechRecognition
+pyttsx3
+langchain-core
+langchain-groq
+musicLibrary
